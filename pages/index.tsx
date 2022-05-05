@@ -8,7 +8,10 @@ interface Post {
 }
 
 const posts: Post[] = [
-  { title: 'React testing', excerpt: 'Learn React testing' },
+  {
+    title: 'React testing',
+    excerpt: 'Learn React testing, create fast websites!',
+  },
   { title: 'React coding', excerpt: 'Learn React coding' },
 ]
 
